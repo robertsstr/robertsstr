@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="200" height="200">
+### Hi there <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100">
+
 
 <!--
 **robertsstr/robertsstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
