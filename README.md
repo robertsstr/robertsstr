@@ -4,12 +4,12 @@
   <div style="text-align: center;">
   <p style="font-size: 20px;">I am a Software Developer, specializing in C#.</p>
   <p style="font-size: 20px;">Currently exploring Front-end development to broaden my expertise.</p>
-  <p <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100"> </p>
+   <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100"> 
 </div>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
   
-  ## :toolbox: ToolBox
+  ## :toolbox: ToolBox :toolbox:
   <div style="display: flex; justify-content: center; gap: 20px;">
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C# .NET Core/ASP.NET"/>
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
