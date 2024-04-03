@@ -9,7 +9,7 @@
   
   ## :toolbox: ToolBox :toolbox:
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="C# .NET Core/ASP.NET" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# .NET Core/ASP.NET" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
     <img src="https://img.icons8.com/color/48/0000FF/python.png" alt="Python"/>
@@ -18,6 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/48px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
 </div>
+
 
   <br>
   <div>
