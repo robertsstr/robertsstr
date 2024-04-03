@@ -4,6 +4,8 @@
 I am Software Developer, specializing in C#.
 Currently exploring Front-end development to broaden my expertise.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr">
+
+
 <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100">
 
 
