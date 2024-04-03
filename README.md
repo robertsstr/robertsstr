@@ -6,8 +6,6 @@
   <p style="font-size: 20px;">Currently exploring Front-end development to broaden my expertise.</p>
    <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100"> 
 </div>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
   
   ## :toolbox: ToolBox :toolbox:
   <div style="display: flex; justify-content: center; gap: 20px;">
@@ -24,7 +22,7 @@
   <div>
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=robertsstr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
 </div>
 
 
