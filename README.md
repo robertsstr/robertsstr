@@ -9,7 +9,7 @@
   
   ## :toolbox: ToolBox :toolbox:
   <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C# .NET Core/ASP.NET"/>
+      <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="C# .NET Core/ASP.NET"/>
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
       <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
       <img src="https://img.icons8.com/color/48/0000FF/python.png" alt="Python"/>
