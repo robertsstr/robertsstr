@@ -10,7 +10,7 @@
     <img src="https://img.icons8.com/color/48/0000FF/python.png" alt="Python"/>
     <img src="https://img.icons8.com/color/48/0000FF/sql.png" alt="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" alt="Visual Studio"/>
+    <img src="!https://github.com/robertsstr/robertsstr/assets/149763082/4f1020a6-a0fa-4fe5-9b42-8b8ab6b74c0c)" alt="Visual Studio"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
 </div>
 <!--
