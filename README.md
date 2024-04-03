@@ -3,10 +3,7 @@
   ### Hi there, my name is Roberts Straumītis :latvia:
   <div style="text-align: center;">
   <p style="font-size: 20px;">I am a Software Developer, specializing in C#.</p>
-  <p style="font-size: 18px;">Currently exploring Front-end development to broaden my expertise.</p>
-  <p style="font-size: 16px;">.</p>
-  <p style="font-size: 14px;">.</p>
-  <p style="font-size: 12px;">.</p>
+  <p style="font-size: 20px;">Currently exploring Front-end development to broaden my expertise.</p>
 </div>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
