@@ -1,9 +1,14 @@
 <div align="center">
   
   ### Hi there, my name is Roberts Straumītis :latvia:
-  I am a Software Developer, specializing in C#.
-  
-  Currently exploring Front-end development to broaden my expertise.
+  <div style="text-align: center;">
+  <p style="font-size: 20px;">I am a Software Developer, specializing in C#.</p>
+  <p style="font-size: 18px;">Currently exploring Front-end development to broaden my expertise.</p>
+  <p style="font-size: 16px;">.</p>
+  <p style="font-size: 14px;">.</p>
+  <p style="font-size: 12px;">.</p>
+</div>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
 
   <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100">
