@@ -2,6 +2,7 @@
   
   ### Hi there, my name is Roberts Straumītis :latvia:
   I am a Software Developer, specializing in C#.
+  
   Currently exploring Front-end development to broaden my expertise.
   <img src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr" align="right">
 
