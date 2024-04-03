@@ -1,6 +1,9 @@
-### Hi there, my name is Roberts Straumītis :latvia:
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr">
-<img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100">
+<div style="text-align: center;">
+    <h3>Hi there, my name is Roberts Straumītis :latvia:</h3>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=robertsstr.robertsstr">
+    <img src="https://github.com/robertsstr/robertsstr/blob/main/iltza-monkey-hi.gif" alt="Alt Text" width="100" height="100">
+</div>
+
 
 ## :toolbox: ToolBox
 <div style="display: flex; gap: 20px;">
