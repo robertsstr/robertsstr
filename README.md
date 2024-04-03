@@ -8,9 +8,9 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
     <img src="https://img.icons8.com/color/48/0000FF/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/48/0000FF/database-restore.png" alt="SQL"/>
+    <img src="https://img.icons8.com/color/48/0000FF/sql.png" alt="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" alt="Visual Studio"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
 </div>
 <!--
